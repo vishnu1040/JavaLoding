@@ -8,4 +8,4 @@ class firstFile
         System.out.println("The value entered is :"+a);
         sc.close();
     }
-}
+}q
